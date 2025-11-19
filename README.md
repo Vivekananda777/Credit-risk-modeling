@@ -21,6 +21,7 @@ It uses a LendingClub-style dataset and implements:
 credit-risk-modeling/
 │
 ├── credit_risk_modeling_notebook.ipynb # Main ML notebook
+
 ├── data/ # (loans_full_schema.csv)
 ├── models/ # (Saved .pkl model)
 └── README.md
